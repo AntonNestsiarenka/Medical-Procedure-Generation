@@ -37,6 +37,7 @@
     <Content Include="list_name_illnesses.txt" />
     <Content Include="list_name_medicines.txt" />
     <Content Include="list_name_symptoms.txt" />
+    <Content Include="readmeENG.txt" />
     <Content Include="readmeRU.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
